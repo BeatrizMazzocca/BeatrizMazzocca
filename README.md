@@ -2,7 +2,7 @@
 
 # 👩‍💻 Beatriz Mazzocca
 
-Olá! Sou formada em **Tecnologia da Informação** pela PUCPR, daqui 04 anos serei uma futura aposentada do Banco do Brasil e apaixonada por dados, automação e idiomas!
+Olá! Sou formada em **Tecnologia da Informação** - Análise e Desenvolvimento de Sistemas pela PUCPR, daqui 04 anos serei uma futura aposentada do Banco do Brasil e apaixonada por dados, automação e idiomas!
 
 🎯 **Objetivo**: Trabalhar remotamente com **Análise de Dados** e **Automação de Processos**, unindo minha experiência no setor bancário à nova carreira em tecnologia.
 
