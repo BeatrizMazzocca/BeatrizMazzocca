@@ -4,18 +4,22 @@
 
 Sou formada em **Análise e Desenvolvimento de Sistemas (2025)** e possuo **18 anos de experiência no Banco do Brasil**, atuando em ambientes corporativos críticos, com forte foco em processos, dados e confiabilidade da informação.
 
+Tenho também formação em **Letras Italiano/Português pela USP (2000)**, o que fortalece minha comunicação, documentação técnica e atuação em ambientes multiculturais e internacionais.
+
 Atualmente estou em **transição e consolidação de carreira em Tecnologia da Informação**, com foco em **Engenharia de Dados, Banco de Dados e Desenvolvimento**.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
---**Letras Italiano/Português** - USP - (2000)
-- **Análise e Desenvolvimento de Sistemas** – PUC/PR (2025)  
-- **MIT em Engenharia de Banco de Dados** – Faculdade Infnet - em Andamento 
+- **MIT em Engenharia de Banco de Dados** – Infnet  
   - Oracle  
   - SQL Server  
   - Cloud Databases  
+
+- **Análise e Desenvolvimento de Sistemas** – PUC/PR (2025)  
+
+- **Letras Italiano / Português** – USP (2000)  
 
 ---
 
@@ -63,9 +67,10 @@ Atualmente estou em **transição e consolidação de carreira em Tecnologia da 
 
 ## 🎯 Objetivo Profissional
 
-Atuar com **Dados, Engenharia de Banco de Dados ou Desenvolvimento**, unindo **experiência corporativa sólida** com **formação técnica moderna**, preferencialmente em **ambientes remotos ou híbridos**.
+Atuar com **Dados, Engenharia de Banco de Dados ou Desenvolvimento**, unindo **experiência corporativa sólida**, **formação técnica moderna** e **forte capacidade de comunicação**, preferencialmente em **ambientes remotos ou híbridos**.
 
 ---
+
 
 ## 📫 Contato
 
