@@ -74,7 +74,7 @@ Atuar com **Dados, Engenharia de Banco de Dados ou Desenvolvimento**, unindo **e
 
 ## 📫 Contato
 
-- LinkedIn: *[(adicione aqui)](https://www.linkedin.com/in/maria-beatriz-m-dourado-09b10a372/)*  
+- LinkedIn: *[(Beatriz Mazzocca)](https://www.linkedin.com/in/maria-beatriz-m-dourado-09b10a372/)*  
 
 
 ---
