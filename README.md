@@ -1,38 +1,79 @@
 ## Hi there 👋
 
-# 👩‍💻 Beatriz Mazzocca
+# 👋 Olá! Eu sou 👩‍💻 Beatriz Mazzocca
 
-Olá! Sou formada em **Tecnologia da Informação** - Análise e Desenvolvimento de Sistemas pela PUCPR, daqui 04 anos serei uma futura aposentada do Banco do Brasil e apaixonada por dados, automação e idiomas!
+Sou formada em **Análise e Desenvolvimento de Sistemas (2025)** e possuo **18 anos de experiência no Banco do Brasil**, atuando em ambientes corporativos críticos, com forte foco em processos, dados e confiabilidade da informação.
 
-🎯 **Objetivo**: Trabalhar remotamente com **Análise de Dados** e **Automação de Processos**, unindo minha experiência no setor bancário à nova carreira em tecnologia.
-
----
-
-## 💼 Experiência Técnica
-
-- 🏦 Atuar com automação no Banco do Brasil/Projeto atual
-- 🐍 Estudando Python e lógica de programação (DSA + Udemy)
-- 🗃️ Aprendendo SQL e análise de dados
-- 📊 Iniciando projetos com Power BI e Web Scraping
+Atualmente estou em **transição e consolidação de carreira em Tecnologia da Informação**, com foco em **Engenharia de Dados, Banco de Dados e Desenvolvimento**.
 
 ---
 
-## 🌍 Idiomas
+## 🎓 Formação Acadêmica
 
-- 🇮🇹 Italiano: nível B2 (formada em Letras Português/Italiano - USP)
-- 🇬🇧 Inglês: entre A2/B1 (estudando com o método Caiz/Juliana de Camargo)
+--**Letras Italiano/Português** - USP - (2000)
+- **Análise e Desenvolvimento de Sistemas** – PUC/PR (2025)  
+- **MIT em Engenharia de Banco de Dados** – Faculdade Infnet - em Andamento 
+  - Oracle  
+  - SQL Server  
+  - Cloud Databases  
 
 ---
 
-## 🗓️ Plano de Estudos até Abril/2029
+## 💼 Experiência Profissional
 
-| Ano     | Meta principal                             | Cursos / Ações práticas                                                  |
-|---------|--------------------------------------------|--------------------------------------------------------------------------|
-| 2025    | Fundamentos em Python, lógica e SQL        | ✅ Curso DSA + Udemy + SQL + repositórios no GitHub                     |
-| 2026    | Power BI, Análise de Dados e GitHub ativo  | Pós-graduação (início) + projetos práticos (GitHub + Kaggle)             |
-| 2027    | Portfólio e certificações                  | Projetos em dados reais, visualizações com Power BI e dashboards         |
-| 2028    | Fluência em Inglês e Italiano              | Conversação ativa + escrita + leitura técnica em TI                      |
-| Até 04/2029 | Transição internacional concluída      | Cidadania italiana finalizada, atuação remota ativa, mudança para Itália |
+- **Banco do Brasil**  
+  - 18 anos de atuação  
+  - Vivência em ambientes corporativos de grande escala  
+  - Forte entendimento de processos, regras de negócio, qualidade e governança de dados  
+
+---
+
+## 📚 Formação e Estudos em Andamento – 2026
+
+- **Alura**
+  - 1º semestre:  
+    - Carreira **Desenvolvimento Front-end com React**
+  - 2º semestre:  
+    - Carreira **Desenvolvimento Back-end com Python**
+
+---
+
+## 🧠 Principais Competências Técnicas
+
+- Banco de Dados Relacionais  
+  - Oracle  
+  - SQL Server  
+  - Modelagem de Dados  
+  - SQL avançado  
+
+- Desenvolvimento  
+  - Python  
+  - React (em formação)  
+
+- Engenharia de Dados  
+  - ETL  
+  - Modelagem conceitual, lógica e física  
+  - Integração de dados  
+
+- Cloud & Ferramentas  
+  - Cloud Databases  
+  - Git & GitHub  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar com **Dados, Engenharia de Banco de Dados ou Desenvolvimento**, unindo **experiência corporativa sólida** com **formação técnica moderna**, preferencialmente em **ambientes remotos ou híbridos**.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: *[(adicione aqui)](https://www.linkedin.com/in/maria-beatriz-m-dourado-09b10a372/)*  
+
+
+---
+⭐ Sinta-se à vontade para explorar meus repositórios!
 
 ---
 
